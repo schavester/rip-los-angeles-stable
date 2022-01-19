@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	>
+<channel>
+	<title>
+	Comments on: On Another Note	</title>
+	<atom:link href="https://www.riplosangeles.com/on-another-note/feed/" rel="self" type="application/rss+xml" />
+	<link>https://www.riplosangeles.com/on-another-note/</link>
+	<description>Blogging demolitions one building at a time.</description>
+	<lastBuildDate>Thu, 17 Oct 2019 04:31:29 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.8.2</generator>
+	<item>
+		<title>
+		By: C.C. de V.		</title>
+		<link>https://www.riplosangeles.com/on-another-note/#comment-22</link>
+
+		<dc:creator><![CDATA[C.C. de V.]]></dc:creator>
+		<pubDate>Thu, 17 Oct 2019 04:31:29 +0000</pubDate>
+		<guid isPermaLink="false">https://www.riplosangeles.com/?p=1065#comment-22</guid>
+
+					<description><![CDATA[You&#039;ve convinced me that I need to make a tiny Art Deco bathroom in miniature...I remember the balcony lobby at the Mayan has (had?) spectacular tile.]]></description>
+			<content:encoded><![CDATA[<p>You&#8217;ve convinced me that I need to make a tiny Art Deco bathroom in miniature&#8230;I remember the balcony lobby at the Mayan has (had?) spectacular tile.</p>
+]]></content:encoded>
+		
+			</item>
+	</channel>
+</rss>
